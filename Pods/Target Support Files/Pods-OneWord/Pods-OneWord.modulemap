@@ -1,0 +1,6 @@
+framework module Pods_OneWord {
+  umbrella header "Pods-OneWord-umbrella.h"
+
+  export *
+  module * { export * }
+}
